@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Sergei 👋
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Sergey9359)
 
 <!--
 **ssk93-dev/ssk93-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
